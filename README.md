@@ -271,7 +271,4 @@ The main goal of this project was to build a realistic backend system demonstrat
 * Production-oriented backend practices
 
 ---
-
-## Author
-
-Backend REST API project developed using **ASP.NET Core and C#**.
+<img width="2090" height="951" alt="diagram" src="https://github.com/user-attachments/assets/b842d213-a487-4893-b646-22ae4595a985" />
